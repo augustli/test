@@ -1,8 +1,0 @@
-<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
-  <folder name="test" bundleable="false" exclude="false">
-    <file name="nlapiSubmitField.js" bundleable="true" hideInBundle="true" isOnline="false">
-      <description>tests</description>
-      <altTagCaption></altTagCaption>
-    </file>
-  </folder>
-</project>
